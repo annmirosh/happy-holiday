@@ -1,0 +1,16 @@
+{
+    "name": "happy-holiday",
+    "version": "1.0.0",
+    "description": "A libriary which adds a holiday's image to the site's logo",
+    "author": "Anna Miroshnichenko",
+    "keywords": [
+        "holiday icon",
+        "holiday image",
+        "holiday logo",
+        "add holiday image",
+        "add holiday icon",
+        "add holiday logo"
+    ],
+    "license": "MIT",
+    "repository": "https://github.com/annmirosh/happy-holiday"
+}
